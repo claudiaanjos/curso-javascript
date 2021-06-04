@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desafio da aula #11</title>
+    <style>
+        body{
+            font: normal 18pt Arial;
+            text-align: center;
+            color: rgb(73, 75, 214);
+        }
+        #pais{
+            font: normal 18pt Arial;
+            width: 180px;
+            padding: 1px;
+            border-color: rgba(49, 21, 207, 0.521);
+            color:rgb(29, 14, 231)
+        }
+        #botao{
+            font: normal 16pt Arial;
+            width: 100px;
+            padding: 2px;
+            color:white;
+            background-color: rgba(63, 47, 214, 0.87);
+            border-color: rgba(40, 21, 216, 0.87);
+        }
+        div#res{
+            margin-top: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Nacionalidades</h1>
+    Qual seu país você nasceu: <input type="text" name="pais" id="pais">
+    <input type="button" value="verificar" onclick="verificar()" id="botao">
+    <div id="res">RESULTADO</div>
+    <script src="desafio11.js"></script>
+</body>
+</html>
+

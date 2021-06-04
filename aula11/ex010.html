@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula #11 do curso de JS</title>
+    <style>
+        body{
+            font: normal 18pt Arial;
+            text-align: center;
+            background-color: rgb(182, 186, 221);
+            color: rgb(56, 28, 218);
+        }
+        #velocidade{
+            font: normal 18pt Arial;
+            width: 100px;
+            padding: 1px;
+            border-color: rgba(56, 28, 218, 0.521);
+            color:rgb(29, 14, 231)
+        }
+        #botao{
+            font: normal 16pt Arial;
+            width: 100px;
+            padding: 2px;
+            color:white;
+            background-color: rgba(40, 21, 216, 0.87);
+            border-color: rgba(40, 21, 216, 0.87);
+        }
+        div#resposta{
+            margin-top: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Sistema de Multas</h1>
+    Velocidade do carro: <input type="number" name="vel" id="velocidade"> Km/h
+    <input type="button" value="verificar" onclick="calcular()" id="botao">
+    <div id="resposta">RESULTADO</div>
+    <script src="script010.js"></script>
+</body>
+</html>
+

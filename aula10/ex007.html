@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Aula #10 do curso de JS</title>
+    <style>
+        body{
+            font: normal 18pt Arial;
+            text-align: center;
+            background-color: rgb(221, 182, 182);
+            color: rgb(218, 28, 59);
+        }
+        #txtn1, #txtn2{
+            font: normal 18pt Arial;
+            width: 100px;
+            padding: 1px;
+            border-color: rgba(218, 28, 60, 0.521);
+            color:rgb(231, 14, 50)
+        }
+        #botao{
+            font: normal 18pt Arial;
+            width: 100px;
+            padding: 1px;
+            color:rgb(218, 28, 59);
+            background-color: rgba(235, 197, 215, 0.87);
+            border-color: rgba(235, 197, 215, 0.87);
+        }
+        div#res{
+            margin-top: 25px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Somando Valores</h1>
+    <input type="number" name="txtn1" id="txtn1"> +
+    <input type="number" name="txtn2" id="txtn2">
+    <input type="button" id="botao" value="somar" onclick="somar()">
+    <div id="res">RESULTADO</div>
+    <script src="script007.js"></script>
+</body>
+</html>
