@@ -15,16 +15,10 @@ Em um curso patrocinado pelo Google, o professor Gustavo Guanabara ensinou o con
 
 Obs.: As aulas não estão em sequência nas pastas, pois algumas foram teóricas.
 
-### 🖥️  Instalações
+### 🖥️  Recursos Utilizados
 
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download/)
-
-### ⚒️  Tecnologias
-
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 
 &nbsp;
 
