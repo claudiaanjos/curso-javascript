@@ -20,8 +20,7 @@ Obs.: As aulas não estão em sequência nas pastas, pois algumas foram teórica
 - [Visual Studio Code](https://code.visualstudio.com/download)
 - [NodeJS](https://nodejs.org/en/download/)
 
-&nbsp;
-
+#
 
 <div>
   <p align="left">
