@@ -1,5 +1,9 @@
 # *JavaScript e ECMAScript* - professor Gustavo Guanabara
 
+<p align="center">
+<img src="https://img.shields.io/static/v1?label=Status&message=FINALIZADO&color=blue&style=for-the-badge"/>
+</p>
+
 ### 📚  Descrição
 
 Curso de linguagem JavaScript, voltado para iniciantes e para quem quiser aprender mais sobre ECMAScript, a versão padronizada do JS.
